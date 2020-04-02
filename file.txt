@@ -1,0 +1,15 @@
+time used:0.498426ms "8888888" scale:80000
+time used:0.519019ms
+time used:0.596175ms
+time used:0.461304ms
+time used:0.478307ms
+ get time used:0.214649ms
+ get time used:0.214201ms
+ get time used:0.215997ms
+ get time used:0.212604ms
+ get time used:0.211513ms
+ del time used:0.772993ms
+ del time used:0.735853ms
+ del time used:0.811356ms
+ del time used:0.816972ms
+ del time used:0.845723ms
